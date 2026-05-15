@@ -1,4 +1,4 @@
-
+Enhance your OpenVPN experience with updated OpenVPN Service | smart-DNS + double-VPN, the #1 service. Includes smart-DNS and double-VPN for a safer and more private online
 
 
 
